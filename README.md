@@ -38,8 +38,8 @@
 
 ## About The Project
 
-<a href="https://github.com/RodrigoQuiroz09/Dungeon_Gunner/blob/main/images/Mainmenu.png">
-  <img src="images/Mainmenu.png" alt="Main Menu" width="700" height="400">
+<a href="https://github.com/RodrigoQuiroz09/Dungeon_Gunner/blob/main/images/MainMenu.png">
+  <img src="images/MainMenu.png" alt="Main Menu" width="700" height="400">
 </a>
 
 - Personal project only to show on portfolio made within the udemy course "Unity 2D Dungeon Gunner Roguelike Development Course" made by Rob Ager.
